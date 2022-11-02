@@ -8,6 +8,7 @@
 import Foundation
 
 public class CoreBasic {
+    public init() {}
     public func excute() {
         print("Hello world!!!")
     }
